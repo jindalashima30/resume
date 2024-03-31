@@ -1,5 +1,4 @@
 # resume
-my resume
 SUMMARY - Seeking opportunities which allow me to leverage my skills and experience of over 6 years in technical and financial
 services sector as an analyst with a proficiency in risk management and financial data analysis and presenting actionable insights and findings to the executive teams. IIBF Risk Management CERTIFIED | CERTIFIED SAP Associate | IIBF CAIIB | JAIIB
 EDUCATION
