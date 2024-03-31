@@ -1,12 +1,13 @@
 # resume
 SUMMARY - Seeking opportunities which allow me to leverage my skills and experience of over 6 years in technical and financial
-services sector as an analyst with a proficiency in risk management and financial data analysis and presenting actionable insights and findings to the executive teams. IIBF Risk Management CERTIFIED | CERTIFIED SAP Associate | IIBF CAIIB | JAIIB
+services sector as an analyst with a proficiency in risk management and financial data analysis and presenting actionable insights and findings to the executive teams. 
+IIBF Risk Management CERTIFIED | CERTIFIED SAP Associate | IIBF CAIIB | JAIIB
 EDUCATION
-• UniversityofSouthFlorida,Tampa
-Master of Science in Business Analytics and Information Systems (FinTech concentration) Aug 2023 – Dec 2024 Subjects: Investment Concepts, Financial analysis and modeling, Big data and Machine Learning, Advanced database management. GPA: 3.89/4.0
-• ThaparUniversity,India
-Bachelor of Engineering, Chemical Engineering SKILLS /CLUBS/PROJECTS
-Jun 2014
+University of South Florida,Tampa
+Master of Science in Business Analytics and Information Systems (FinTech concentration)                                      Aug 2023 – Dec 2024 (Subjects: Investment Concepts, Financial analysis and modeling, Big data and Machine Learning, Advanced database management, 
+GPA: 3.89/4.0)   
+Thapar University,India                                                                                                                Jun 2014  Bachelor of Engineering, Chemical Engineering 
+SKILLS /CLUBS/PROJECTS
 • Programming Languages: SQL, Python(pandas,numpy), R.
 • Reporting/Presentationtools:MicrosoftWord,AdvanceExcel,MSPowerPoint,MicrosoftVisio
 • Tools: IBM DBeaver(for Data cleaning), Infosys Finacle(for transactional financial data), PNB Score, SME Score (Inhouse Rating and
